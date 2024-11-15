@@ -11,4 +11,4 @@ Curated list of awesome [interaction nets](https://en.wikipedia.org/wiki/Interac
 
 ## Tutorials
 
-- [Interaction Nets, Combinators, and Calculus](https://zicklag.katharos.group/blog/interaction-nets-combinators-calculus/)
+- [Interaction Nets, Combinators, and Calculus, by Zicklag](https://zicklag.katharos.group/blog/interaction-nets-combinators-calculus/)
